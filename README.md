@@ -6,4 +6,3 @@ Create Calculated Column for Margin, Margin%, Variance in Sales with Budgets
 Put formula for total of all the columns above them	
 Create A Column Chart in Dashboard Sheet 	
 Create various slicers and align them in the specified area	
-
